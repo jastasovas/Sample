@@ -1,0 +1,10 @@
+1,Cola,0.99,60
+2,Pepsi,0.99,60
+3,Fanta,0.99,60
+4,Sparkling water,1.25,120
+5,Still water, 1,130
+6,Orange juice,1.50,12
+7,Apple juice,1.50,10
+8,Pinapple juice,1.50,5
+9,Beer,2.99,5
+10,Vine, 3.99,4
